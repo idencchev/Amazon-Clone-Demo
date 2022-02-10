@@ -9,7 +9,7 @@ function Header() {
 
         <div className="header">
             <Link to='/'>
-                <img className="header__logo" src="https://pngimg.com/uploads/amazon/amazon_PNG11.png" />
+                <img className="header__logo" src="https://pngimg.com/uploads/amazon/amazon_PNG11.png" alt="" />
             </Link>
 
             <div className="header__search">
